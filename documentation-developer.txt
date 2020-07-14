@@ -1,0 +1,23 @@
+Frame Work : Foundation/Sass
+Installed sass with npm using gulp
+
+Plugins Used:
+
+ACF 
+Next Gen Gallery
+Aytoptimize
+Contact Form 7
+
+Features Included
+
+Developed the project page as a custom post type of projects in the global structure.
+Build the whole project page with acf fields with conditional tags 
+Created Theme Details Option page for quick update the address, social links and logos. (social links runs with conditionals, ie; if the field is empty that icon not showing in front screen.)
+Included global variables in sass for better optmization
+Passing the project name to contact form filed dybnamically.
+All javascripts are optimised through npm.
+Inbuild responsive template included.(A complete mobile version with in the same web layout without extra codes)
+Responsive breakpoints added globally for easy customisation.
+Discourage from index for developing purpose
+
+
